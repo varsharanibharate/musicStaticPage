@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.music-bg-container {
+    background-color: #03174c;
+    height: 100vh;
+}
+
+.music-header-bg-container {
+    height: 40vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    padding: 30px;
+}
+
+.header-heading {
+    font-size: 24px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.header-paragraph {
+    font-size: 14px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.night-island-card {
+    padding: 30px;
+}
+
+.night-island-card-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 23vh;
+    margin-bottom: 5px;
+}
+
+.night-island-card-heading {
+    font-size: 32px;
+    font-family: "Bree Serif";
+    color: #ffe7bf;
+}
+
+.night-island-card-paragraph {
+    font-size: 12px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.button {
+    font-size: 14px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-radius: 20px;
+    padding: 5px;
+    width: 120px;
+}
+
+.music-details-image {
+    width: 100vw;
+}
+
+.music-details-card-container {
+    padding: 20px;
+}
+
+.music-details-heading {
+    font-size: 28px;
+    font-family: "Bree Serif";
+    color: #ffe7bf;
+
+}
+
+.music-details-paragraph {
+    font-size: 12px;
+    font-family: "Bree Serif";
+    color: #98a1bd;
+}
+
+.music-details-sub-heading {
+    font-size: 16px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.music-related-image {
+    margin-bottom: 5px;
+    width: 40vw;
+    margin-right: 10px;
+}
+
+.related-music-name {
+    font-size: 14px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
